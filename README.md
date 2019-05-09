@@ -8,12 +8,12 @@ You can also download the completed version of the app from apk folder. Hope you
 
 ## Screenshots
 
-<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/demo.gif' align='left' width='75%'>
+<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/demo.gif' align='left' width='100%'>
+<br><br>
 
-<br>
-<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/flutter_01.png' align='left' width='50%'>
+<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/flutter_01.png' align='left' width='30%'>
 
-<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/flutter_02.png' width='50%'>
+<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/flutter_02.png' width='30%'>
 
 ## Getting Started With Flutter
 
