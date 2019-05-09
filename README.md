@@ -8,7 +8,7 @@ You can also download the completed version of the app from apk folder. Hope you
 
 ## Screenshots
 
-<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/demo.gif' align='left' width='100%'>
+<img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/demo.gif' align='left' width='100%' style='margin-bottom:25px;'>
 
 ## Getting Started With Flutter
 
