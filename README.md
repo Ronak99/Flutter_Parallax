@@ -6,7 +6,7 @@ See the video where I explain more about the project [here](https://youtu.be/eJ_
 
 You can also download the completed version of the app from apk folder. Hope you like it.
 
-## Screenshots
+## Demo
 
 <img src='https://github.com/Ronak99/Flutter_Parallax/blob/master/screenshots/demo.gif' align='left' width='100%' style='margin-bottom:25px;'>  
 
